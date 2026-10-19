@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🏦 Modelo Bancario | Diseño y Implementación en MySQL
 
@@ -101,7 +101,7 @@ El modelo físico está en [`model/EER_DIAGRAM.mwb`](model/EER_DIAGRAM.mwb). Par
 ## 📁 Estructura del proyecto
 
 ```text
-bd-actividad1-modelo-bancario/
+Actividad-BD-Modelo-Bancario/
 │
 ├── docs/
 │   └── Actividad1_Modelo_Bancario.pdf          # Documento de la actividad
@@ -169,8 +169,8 @@ winget install --id Git.Git -e
 Con Git:
 
 ```bash
-git clone https://github.com/jipc3/bd-actividad1-modelo-bancario.git
-cd bd-actividad1-modelo-bancario
+git clone https://github.com/jipc3/Actividad-BD-Modelo-Bancario.git
+cd Actividad-BD-Modelo-Bancario
 ```
 
 Sin Git: en GitHub pulsa **Code → Download ZIP** y descomprime la carpeta.
