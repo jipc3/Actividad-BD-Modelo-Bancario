@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # 🏦 Modelo Bancario | Diseño y Implementación en MySQL
 
@@ -285,7 +285,7 @@ Proyecto académico orientado a modelado y diseño de bases de datos relacionale
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-palma-carbo/)
 
-**Data Analyst** | **Ing. Industrial** | **MySQL** | **Modelado E/R** | **SQL**
+**Data Engineer & Analyst** | **Azure Databricks & Power BI** | **Ingeniero Industrial**
 
 ---
 
